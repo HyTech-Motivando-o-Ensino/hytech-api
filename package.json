@@ -1,0 +1,19 @@
+{
+  "name": "hytech-api",
+  "version": "1.0.0",
+  "description": "Este repositório que ficará responsável por entregar as rotas de acesso (entrada e saída) do chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyTech-Motivando-o-Ensino/hytech-api.git"
+  },
+  "author": "HyTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyTech-Motivando-o-Ensino/hytech-api/issues"
+  },
+  "homepage": "https://github.com/HyTech-Motivando-o-Ensino/hytech-api#readme"
+}
